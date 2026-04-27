@@ -1,1 +1,1 @@
-# Lista_Pessoas
+# Projeto de Lista de Compras
